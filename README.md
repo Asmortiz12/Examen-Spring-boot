@@ -1,4 +1,6 @@
 *Json de la entidad* 
+
+
  {
     "id_producto": 4,
     "nombre_producto": "Sexo!x2",
@@ -6,6 +8,8 @@
     "fecha_registro": "2024-05-22",
     "precio_venta": 10
   }
+
+  
   *Imagen de Swagger*
   ![image](https://github.com/Asmortiz12/Examen-Spring-boot/assets/119527936/97972853-42dd-4bb5-999a-d0a13883cc7d)
   *Ejecucion de los metodos en Thunder Client*
