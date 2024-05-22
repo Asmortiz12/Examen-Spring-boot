@@ -19,6 +19,7 @@
   *Metodo Post para Registrar el producto*
   ![image](https://github.com/Asmortiz12/Examen-Spring-boot/assets/119527936/0ff577f6-7020-40a7-a9ab-c50740203960)
   *Metodo Delete para Eliminar por nombre*
+  ![image](https://github.com/Asmortiz12/Examen-Spring-boot/assets/119527936/73afd5a9-bbb6-4c19-88ac-656c5d4f2a43)
   ![image](https://github.com/Asmortiz12/Examen-Spring-boot/assets/119527936/ac61febf-20b3-4ecd-b242-4d2c347f2736)
   ![image](https://github.com/Asmortiz12/Examen-Spring-boot/assets/119527936/a08714b7-c475-480c-9962-fa1ac0b5b418)
 
