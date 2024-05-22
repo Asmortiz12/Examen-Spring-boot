@@ -7,6 +7,7 @@
     "estado_producto": true,
     "fecha_registro": "2024-05-22",
     "precio_venta": 200.0
+    "categoria": null
     
   }
 
