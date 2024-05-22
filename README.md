@@ -1,12 +1,13 @@
 *Json de la entidad* 
 
-
- {
-    "id_producto": 4,
-    "nombre_producto": "Sexo!x2",
+  {
+  
+    "id_producto": 8,
+    "nombre_producto": "CPU Ryzen 7",
     "estado_producto": true,
     "fecha_registro": "2024-05-22",
-    "precio_venta": 10
+    "precio_venta": 200.0
+    
   }
 
   
